@@ -11,3 +11,7 @@ I'm currently based in Edo State Nigeria. :nigeria:
 
 
 ![OdionOseiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdionOseiwe&show_icons=true&theme=radical)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdionOseiwe&layout=compact)](https://github.com/OdionOseiwe/github-readme-stats)

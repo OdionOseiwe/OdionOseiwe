@@ -7,8 +7,7 @@
 
 #### I'm currently based in Edo State Nigeria. :nigeria: ####
 
-
-/keybase/pgp/lukechilds
+pgp key/keybase/pgp/lukechilds
 
 
 

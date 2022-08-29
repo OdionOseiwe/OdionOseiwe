@@ -16,4 +16,4 @@ I'm currently based in Edo State Nigeria. :nigeria:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdionOseiwe&layout=compact)](https://github.com/OdionOseiwe/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>

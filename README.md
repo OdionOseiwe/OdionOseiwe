@@ -5,7 +5,7 @@
 ### I'm a frontend developer and currently learning solidity at web3bridge lagos.  I am a blockchain enthusias ###
 
 
-I'm currently based in Edo State Nigeria. :nigeria:
+#### I'm currently based in Edo State Nigeria. :nigeria: ####
 
 
 
@@ -16,4 +16,4 @@ I'm currently based in Edo State Nigeria. :nigeria:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdionOseiwe&layout=compact)](https://github.com/OdionOseiwe/github-readme-stats)
 
 
-            Always learn, practice and explore :ok_woman:
+        ####    Always learn, practice and explore :ok_woman: ####

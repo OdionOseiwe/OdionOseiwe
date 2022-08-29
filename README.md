@@ -7,7 +7,7 @@
 
 #### I'm currently based in Edo State Nigeria. :nigeria: ####
 
-pgp key/keybase/pgp/lukechilds
+<http://https://twitter.com/OdionOseiwe> 
 
 
 

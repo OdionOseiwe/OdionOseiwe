@@ -9,7 +9,7 @@
 
 
 <https://twitter.com/OdionOseiwe>
-
+[link text itself]: https://twitter.com/OdionOseiwe
 
 
 ![OdionOseiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdionOseiwe&show_icons=true&theme=radical)

@@ -7,7 +7,7 @@
 
 #### I'm currently based in Edo State Nigeria. :nigeria: ####
 
-<img src="https://twitter.com/OdionOseiwe/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<a href= "https://twitter.com/OdionOseiwe">twitter</a>
 
 ![OdionOseiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdionOseiwe&show_icons=true&theme=radical)
 

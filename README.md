@@ -7,8 +7,7 @@
 
 #### I'm currently based in Edo State Nigeria. :nigeria: ####
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 ![OdionOseiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdionOseiwe&show_icons=true&theme=radical)
 

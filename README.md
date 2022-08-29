@@ -7,9 +7,10 @@
 
 #### I'm currently based in Edo State Nigeria. :nigeria: ####
 
-<http://https://twitter.com/OdionOseiwe> 
 
+<https://twitter.com/OdionOseiwe>
 
+/twitter/follow/rustlang
 
 
 ![OdionOseiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdionOseiwe&show_icons=true&theme=radical)

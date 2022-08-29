@@ -7,7 +7,8 @@
 
 #### I'm currently based in Edo State Nigeria. :nigeria: ####
 
-###  - 📫you can find me on : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/odion-oseiwe-6803ba237/)](https://www.linkedin.com/in/odion-oseiwe-6803ba237/) 
+####  - 📫you can find me on : 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/odion-oseiwe-6803ba237/)](https://www.linkedin.com/in/odion-oseiwe-6803ba237/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oseiweifebhor@gmail.com)](mailto:oseiweifebhor@gmail.com)
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/OdionOseiwe)](https://twitter.com/OdionOseiwe) 
 

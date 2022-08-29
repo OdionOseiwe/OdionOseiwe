@@ -7,7 +7,7 @@
 
 #### I'm currently based in Edo State Nigeria. :nigeria: ####
 
-<a href= "https://twitter.com/OdionOseiwe">twitter</a>
+<a href= "https://twitter.com/OdionOseiwe" style="background-color:blue">twitter</a>
 
 ![OdionOseiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdionOseiwe&show_icons=true&theme=radical)
 

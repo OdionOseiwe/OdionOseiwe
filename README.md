@@ -1,5 +1,5 @@
 
-## Hello, I'm OdionOseiwe 	:sassy_woman: Welcome to my github profile! :wave:
+## Hello, I'm OdionOseiwe  Welcome to my github profile!
 
 
 ### I'm a frontend developer, I write smart contracts ,build DApps, I always like to find new things to build that can change the blockchain space. Im open to learn and have fun while looking through my repo. 

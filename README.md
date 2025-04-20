@@ -1,7 +1,5 @@
 
-## Hello, I'm OdionOseiwe  Welcome to my github profile!
-
-# Hi there 👋  
+## Hi there 👋  
 
 I'm a developer passionate about building decentralized applications (dApps) and web solutions. My expertise includes:  
 

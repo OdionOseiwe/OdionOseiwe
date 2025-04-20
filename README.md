@@ -1,8 +1,15 @@
 
 ## Hello, I'm OdionOseiwe  Welcome to my github profile!
 
+# Hi there 👋  
 
-### I'm a frontend developer, I write smart contracts ,build DApps, I always like to find new things to build that can change the blockchain space. Im open to learn and have fun while looking through my repo. 
+I'm a developer passionate about building decentralized applications (dApps) and web solutions. My expertise includes:  
+
+- **Backend**: Node.js, Express  
+- **Blockchain**: Solidity, Yul, Smart Contract Development  
+- **Frontend**: React  
+
+I love working on full-stack projects, optimizing smart contracts, and exploring low-level EVM mechanics. Let's connect and build something awesome! 🚀  
 
 
 #### I'm currently based in Edo State Nigeria. :nigeria: ####
